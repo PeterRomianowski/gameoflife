@@ -26,7 +26,8 @@ public class GameOfLifeUnitTest {
             new SaschasGameOfLife1(),
             new MichasGameOfLife1(),
             new MichasGameOfLife3(),
-            new PerosGameOfLive1()
+            new PerosGameOfLive1(),
+            new PerosGameOfLive1a()
         };
     }
 
